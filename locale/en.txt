@@ -1,0 +1,36 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
+
+## Skin
+
+### Button
+Button_B5551DB1_A8AE_1192_41E0_9815EC3E8FD9.label = CONTACT US
+Button_BAFF9AB7_AC6D_3778_41DD_EF9D1C21D15E.label = FLOOR PLAN
+
+### Multiline Text
+HTMLText_B3A95BF7_AD90_5B11_41E1_AC9050095132.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.93vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:1.93vw;"><B>MUSEUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.69vw;"><BR STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.54vw;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Tooltip
+IconButton_BD225E9E_B273_D96C_41A9_C0F962709F6A.toolTip = Fullscreen
+
+## Media
+
+### Title
+map_09C3C20B_1FB9_1410_41B8_6B298FDBCCDE.label = Master Plan
+panorama_111705B8_1F89_1C70_41A1_E6AB3A427214.label = Note:
+panorama_132932DD_1F89_3430_4194_3D06879DC008.label = Note:
+panorama_132AB0AA_1F89_1413_41B3_BED8D75C72D9.label = ចំណតឡាន
+panorama_132ABC6E_1F89_6C10_4184_6B8FD1882DB8.label = ចំណតឡាន
+panorama_132B56CE_1F89_7C13_41B0_3A78B5B17B71.label = ចំណតជនពិការ
+
+## Action
+
+### URL
+LinkBehaviour_0F913195_1F99_1430_41B7_58F0627E3CBC.source = https://www.linkedin.com/in/dany-rith-06549017a/
+LinkBehaviour_0F915195_1F99_1430_41AD_F213E54E859B.source = https://www.pinterest.com/dany_rith/_created/
